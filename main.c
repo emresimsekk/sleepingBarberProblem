@@ -27,6 +27,7 @@ void Berber (void *kimlik){
 int sayi=*(int*)kimlik+1;
 int mID, sonrakiMusteri;
 
+
 printf("%d.Berber\t-->\tdukkana geldi.\n",sayi);
 
 	// Sonsuz DÖngü OLuþturulur
